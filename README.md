@@ -1,7 +1,7 @@
 # Experiment No. 2
 
-<H3>Name : Lathika Sunder</H3>
-<H3>Register no. 212221230054</H3>
+<H3>Name : KAVYA K</H3>
+<H3>Register no. 212222230065</H3>
 <H3>Date</H3>
 
 ## Implementation of Perceptron for Binary Classification
